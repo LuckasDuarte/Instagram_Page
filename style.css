@@ -126,7 +126,7 @@ body {
     background-image: url('./img/googleplay-button.png');
 }
 
-/*  media queries mobile   */
+/*  media queries mobile e Tablet  */
 
 @media (max-width: 1024px){
     .instagram-wrapper {
